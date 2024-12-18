@@ -35,14 +35,14 @@ const Features = () => {
       <div className="screen-max-width">
         <div className="mb-12 w-full">
           <h1 id="features_title" className="section-heading">
-            Explore the full story.
+            Explore The Full Story.
           </h1>
         </div>
         <div className="flex flex-col justify-center items-center overflow-hidden">
           <div className="mt-32 mb-24 pl-24">
-            <h2 className="text-5xl lg:text-7xl font-semibold">iPhone.</h2>
+            <h2 className="text-5xl lg:text-7xl font-semibold">IPhone.</h2>
             <h2 className="text-5xl lg:text-7xl font-semibold">
-              Forged in titanium.
+              Forged In Titanium.
             </h2>
           </div>
           <div className="flex-center flex-col sm:px-10">
@@ -79,23 +79,23 @@ const Features = () => {
               <div className="feature-text-container">
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    iPhone 15 Pro is{" "}
+                    iPhone 15 Pro Is{" "}
                     <span className="text-white">
-                      the first iPhone to feature an aerospace-grade titanium
-                      design
+                      The First IPhone To Feature an Aerospace-Grade Titanium
+                      Design
                     </span>
-                    , using the same alloy that spacecrafts use for missions to
+                    , Using The Same Alloy That Spacecrafts Use For Missions To
                     Mars.
                   </p>
                 </div>
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
-                    Titanium has one of the best strength-to-weight ratios of
-                    any metal, making these our{" "}
+                    Titanium Has One Of The Best Strength-To-Weight Ratios Of
+                    Any Metal, Making These Our{" "}
                     <span className="text-white">
-                      lightest Pro models ever.
+                      Lightest Pro Models Ever.
                     </span>
-                    You'll notice the difference the moment you pick one up.
+                    You'll Notice The Difference The Moment You Pick One Up.
                   </p>
                 </div>
               </div>

@@ -9,38 +9,38 @@ import {
   yellowImg,
 } from "../utils";
 
-export const navLists = ["Store", "Mac", "iPhone", "Support"];
+export const navLists = ["Store", "Mac", "IPhone", "Support"];
 
 export const hightlightsSlides = [
   {
     id: 1,
     textLists: [
       "Enter A17 Pro.",
-      "Game‑changing chip.",
-      "Groundbreaking performance.",
+      "Game‑Changing Chip.",
+      "Groundbreaking Performance.",
     ],
     video: highlightFirstVideo,
     videoDuration: 4,
   },
   {
     id: 2,
-    textLists: ["Titanium.", "So strong. So light. So Pro."],
+    textLists: ["Titanium.", "So Strong. So Light. So Pro."],
     video: highlightSecondVideo,
     videoDuration: 5,
   },
   {
     id: 3,
     textLists: [
-      "iPhone 15 Pro Max has the",
-      "longest optical zoom in",
-      "iPhone ever. Far out.",
+      "IPhone 15 Pro Max Has The",
+      "Longest Optical Zoom In",
+      "IPhone Ever. Far Out.",
     ],
     video: highlightThirdVideo,
     videoDuration: 2,
   },
   {
     id: 4,
-    textLists: ["All-new Action button.", "What will yours do?."],
+    textLists: ["All-New Action Button.", "What Will Yours Do?."],
     video: highlightFourthVideo,
     videoDuration: 3.63,
   },
@@ -49,25 +49,25 @@ export const hightlightsSlides = [
 export const models = [
   {
     id: 1,
-    title: "iPhone 15 Pro in Natural Titanium",
+    title: "IPhone 15 Pro In Natural Titanium",
     color: ["#8F8A81", "#ffe7b9", "#6f6c64"],
     img: yellowImg,
   },
   {
     id: 2,
-    title: "iPhone 15 Pro in Blue Titanium",
+    title: "IPhone 15 Pro In Blue Titanium",
     color: ["#53596E", "#6395ff", "#21242e"],
     img: blueImg,
   },
   {
     id: 3,
-    title: "iPhone 15 Pro in White Titanium",
+    title: "IPhone 15 Pro In White Titanium",
     color: ["#C9C8C2", "#ffffff", "#C9C8C2"],
     img: whiteImg,
   },
   {
     id: 4,
-    title: "iPhone 15 Pro in Black Titanium",
+    title: "IPhone 15 Pro In Black Titanium",
     color: ["#454749", "#3b3b3b", "#181819"],
     img: blackImg,
   },
@@ -80,7 +80,7 @@ export const sizes = [
 
 export const footerLinks = [
   "Privacy Policy",
-  "Terms of Use",
+  "Terms Of Use",
   "Sales Policy",
   "Legal",
   "Site Map",
